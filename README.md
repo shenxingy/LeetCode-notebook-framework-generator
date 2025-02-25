@@ -1,6 +1,6 @@
-# 📘 LeetCode Notebook Framework Generator (LeetCode Notebook代码框架生成器)
+# 📘 LeetCode Notebook Framework Generator (LeetCode Notebook 代码框架生成器)
 
-**LeetCode Helper** is a Python script that automates the process of **organizing LeetCode problems** into structured folders and generating a **Jupyter Notebook** for coding and testing. This script is designed with the help of ChatGPT.
+**LeetCode Helper** is a Python script that automates the process of **organizing LeetCode problems** into structured folders and generating a **Jupyter Notebook** for coding and testing  in your local IDE like VS Code. This script is designed with the help of ChatGPT.
 
 ---
 
