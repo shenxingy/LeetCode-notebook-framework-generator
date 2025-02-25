@@ -2,6 +2,11 @@
 
 **LeetCode Helper** is a Python script that automates the process of **organizing LeetCode problems** into structured folders and generating a **Jupyter Notebook** for coding and testing  in your local IDE like VS Code. This script is designed with the help of ChatGPT.
 
+**``🛑🚀  THIS TOOL IS UNDER ACTIVE DEVELOPMENT! FUTURE UPDATES MAY INCLUDE VS CODE LEETCODE EXTENSION INTEGRATION & WEB SCRAPING FEATURES.``**  
+
+## 🔮 Future Enhancements
+- **VS Code Integration**: Leverage the existing **LeetCode Extension** to generate **locally runnable code**, automatically organizing it into folders.
+- **Web Scraping Feature**: Collect problems from **specific LeetCode problem sets** and generate a structured workspace for efficient problem-solving.
 ---
 
 ## 🚀 Features
