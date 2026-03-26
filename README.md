@@ -80,8 +80,10 @@ Run the script using the command:
 
 or 
 
-```bash 
-python <code.py> <input.txt> <code category>
+```bash
+python helper.py <input.txt> "<code category>"
+# Example:
+python helper.py input.txt "Array & String"
 ```
 
 ### 3️⃣ Output
@@ -114,8 +116,3 @@ solution.productExceptSelf([1,2,3,4])
 ✅ Organized Workflow: Keeps LeetCode problems structured.
 ✅ Easily Extendable: Modify it for custom categories or formats.
 
-## 🛠 Future Enhancements
-
-📌 Support for Multiple Test Cases
-📌 Dynamic Category Assignment Based on Topics
-📌 Integration with Online LeetCode APIs
